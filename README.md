@@ -19,19 +19,33 @@
 
 ## 🛠️ Tech Stack
 
-**Salesforce**
-- Apex • Lightning Web Components (LWC) • Flows  
-- Custom Objects • Triggers • SOQL • Integration (REST/GraphQL)
+<!-- Salesforce -->
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1798c1?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Flows](https://img.shields.io/badge/Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-**Frontend**
-- React • JavaScript/TypeScript • HTML • CSS • Tailwind CSS
+<!-- Linguagens -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Dev & Cloud**
-- Git/GitHub • GitHub Actions (CI/CD)  
-- VS Code • Salesforce CLI • Docker (quando faz sentido)
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- APIs / Integração -->
+![REST API](https://img.shields.io/badge/REST-009688?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<!-- DevOps / Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ## 📂 Projetos em destaque
 
 - 🚲 **Bike B2B**  
