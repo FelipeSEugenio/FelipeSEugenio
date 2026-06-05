@@ -42,29 +42,11 @@
 
 > Em breve adiciono mais projetos com foco em **arquitetura, performance e boas práticas**.
 
----
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=FelipeDSEugenio&show_icons=true&theme=dracula" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDSEugenio&layout=compact&theme=dracula" 
-    alt="Top Langs"
-  />
-</p>
-
----
 
 ## 📫 Onde me encontrar
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/felipe-de-siqueira-eugenio/" target="_blank">
+<a href="https://www.linkedin.com/in/felipe-de-siqueira-eugenio/(https://www.linkedin.com/in/felipe-de-siqueira-eugenio/" target="_blank">
   <img 
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
     alt="LinkedIn"
